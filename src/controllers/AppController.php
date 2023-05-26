@@ -218,7 +218,7 @@ class AppController
                 ];
                 $password = $_POST['password'];
                 User::seConnecter($data, $password);
-                $_SESSION['messages']['success'] = 'Vous êtes connecté !';
+                $_SESSION['messages']['success'][] = 'Vous êtes connecté !';
                 header('Loation:' . BASE);
             }else
             {

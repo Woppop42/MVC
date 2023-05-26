@@ -1,0 +1,8 @@
+## Inscription / Connexion / Deconnexion => 1 table en plus
+## Gestion de panier => Pas de table en plus
+## Gestion des commandes => 2 tables en +
+## Historique des commandes => Pas de table en plus
+## Avis -> 1 table supplémentaire
+## Mailing
+## Categorie
+## Mise en avant d'un produit
